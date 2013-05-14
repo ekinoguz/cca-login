@@ -8,6 +8,6 @@ Developed only for Ubuntu (which does not require NAC Agent) and educational
 purposes, use it on your own risk
 
 Usage:  
-> python cca-agent.py \<UCInetID\>
+> python cca.py \<UCInetID\>
 
 for more info about CCA: http://en.wikipedia.org/wiki/Cisco_NAC_Appliance
