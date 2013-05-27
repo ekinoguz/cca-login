@@ -7,5 +7,5 @@ Developed only for Ubuntu (which does not require NAC Agent) and tested only at 
 Usage: 
 > ./cca.py \<UCInetID\>
 
-This script is for educational purposes only, use it on your own risk.
+This script is for educational purposes only, use it on your own risk.  
 PS: for more info about CCA: http://en.wikipedia.org/wiki/Cisco_NAC_Appliance
