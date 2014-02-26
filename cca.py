@@ -18,7 +18,7 @@ def convert(data):
 
 # website where request will be sent
 # target = 'https://resnet-cca3-arc.reshsg.uci.edu/auth/perfigo_cm_validate.jsp'
-target = 'https://arc-cas2.reshsg.uci.edu/auth/perfigo_cm_validate.jsp'
+target = 'https://arc-cas3.reshsg.uci.edu/auth/perfigo_cm_validate.jsp'
 
 # get arguments from command line
 arg_size = len(sys.argv)
